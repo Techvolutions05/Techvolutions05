@@ -38,17 +38,17 @@ round-avatar: True
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "elmagico05@gmail.com"
+#   facebook: deanattali
+  github: techvolutions05
+  twitter: techvolutions
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: @techvolutions
+  instagram: techvolutions
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888

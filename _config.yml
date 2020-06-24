@@ -42,7 +42,7 @@ social-network-links:
 #   facebook: deanattali
   github: techvolutions05
   twitter: techvolutions
-  rss: true
+  rss: false
 #  reddit: yourname
   linkedin: AnellSantos
 #  xing: yourname
@@ -65,7 +65,7 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: false
-  linkedin: true
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer

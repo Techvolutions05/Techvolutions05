@@ -1,10 +1,10 @@
 # --- Basic options --- #
 
 # Name of website
-title: 3D Printing Material PLA
+title: 3D Printing With PLA
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Getting your first layer.
 
 # Your name to show in the footer
 author: Anell Santos
@@ -14,9 +14,9 @@ author: Anell Santos
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - All3Dp: "https://all3dp.com"
+    - 3D-HUBS: "https://www.3dhubs.com/guides/3d-printing/
+  Author's Twitter: "https://twitter.com/techvolutions"
 
 # --- Logo --- #
 
@@ -44,7 +44,7 @@ social-network-links:
   twitter: techvolutions
   rss: true
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: AnellSantos
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -64,13 +64,13 @@ social-network-links:
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "TheFirstLayer.com"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
@@ -82,7 +82,7 @@ excerpt_length: 50
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#c7a1c6"
 navbar-text-col: "#404040"
 navbar-border-col: "#EAEAEA"
 page-col: "#FFFFFF"

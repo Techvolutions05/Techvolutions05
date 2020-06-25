@@ -12,7 +12,7 @@ author: Anell Santos
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  # About Me: "aboutme"
   Resources:
     - All3Dp: "https://all3dp.com"
     - 3DHUBS: "https://3dhubs.com/guides/3d-printing/"

@@ -12,7 +12,9 @@ but for a quick reference, the following is what your settings should look like.
 (Note: If your printer comes with PLA print profiles, these should already be well-tuned.)
 
 -Nozzle Temperature: 190–220 °C
+
 -Bed Temperature: 0 °C (with blue painter’s tape) or 50–70 °C
+
 -Print Speed: 10–100 mm/s (depending heavily on the printer’s capabilities)
 
 As with other materials, make sure that your bed is level and clean before starting a print. If your prints aren’t sticking well to the print surface, you may need to dial in more specific first layer settings.
